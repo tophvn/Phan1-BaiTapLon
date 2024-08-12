@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Demo\\BaiTapLon\\BaiTapLon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A37853-6A82-46A1-B5C7-A67B93314F8D}|Nhan2SoNguyenLon\\Nhan2SoNguyenLon.vcxproj|D:\\Demo\\BaiTapLon\\BaiTapLon\\Nhan2SoNguyenLon\\Nhan2SoNguyenLon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B7A37853-6A82-46A1-B5C7-A67B93314F8D}|Nhan2SoNguyenLon\\Nhan2SoNguyenLon.vcxproj|solutionrelative:Nhan2SoNguyenLon\\Nhan2SoNguyenLon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58092086-DBD2-48EC-BB66-C98DF44E9CB2}|TimKiemNhiPhan\\TimKiemNhiPhan.vcxproj|D:\\Demo\\BaiTapLon\\BaiTapLon\\TimKiemNhiPhan\\TKNP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{58092086-DBD2-48EC-BB66-C98DF44E9CB2}|TimKiemNhiPhan\\TimKiemNhiPhan.vcxproj|solutionrelative:TimKiemNhiPhan\\TKNP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1B6CD6-E33B-4F0D-9C28-5CB693202A23}|MergeSort\\MergeSort.vcxproj|D:\\Demo\\BaiTapLon\\BaiTapLon\\MergeSort\\MergeSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F1B6CD6-E33B-4F0D-9C28-5CB693202A23}|MergeSort\\MergeSort.vcxproj|solutionrelative:MergeSort\\MergeSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Nhan2SoNguyenLon.cpp",
+              "DocumentMoniker": "D:\\Demo\\BaiTapLon\\BaiTapLon\\Nhan2SoNguyenLon\\Nhan2SoNguyenLon.cpp",
+              "RelativeDocumentMoniker": "Nhan2SoNguyenLon\\Nhan2SoNguyenLon.cpp",
+              "ToolTip": "D:\\Demo\\BaiTapLon\\BaiTapLon\\Nhan2SoNguyenLon\\Nhan2SoNguyenLon.cpp",
+              "RelativeToolTip": "Nhan2SoNguyenLon\\Nhan2SoNguyenLon.cpp",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-12T11:14:47.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TKNP.cpp",
+              "DocumentMoniker": "D:\\Demo\\BaiTapLon\\BaiTapLon\\TimKiemNhiPhan\\TKNP.cpp",
+              "RelativeDocumentMoniker": "TimKiemNhiPhan\\TKNP.cpp",
+              "ToolTip": "D:\\Demo\\BaiTapLon\\BaiTapLon\\TimKiemNhiPhan\\TKNP.cpp",
+              "RelativeToolTip": "TimKiemNhiPhan\\TKNP.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-12T11:13:51.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MergeSort.cpp",
+              "DocumentMoniker": "D:\\Demo\\BaiTapLon\\BaiTapLon\\MergeSort\\MergeSort.cpp",
+              "RelativeDocumentMoniker": "MergeSort\\MergeSort.cpp",
+              "ToolTip": "D:\\Demo\\BaiTapLon\\BaiTapLon\\MergeSort\\MergeSort.cpp",
+              "RelativeToolTip": "MergeSort\\MergeSort.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-12T11:12:36.332Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
